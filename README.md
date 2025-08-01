@@ -68,3 +68,23 @@ To conduct a detailed analysis of Blinkit's operations to:
 ---
 
 ## 📁 Project Structure
+📦 blinkit-data-analysis/
+├── 📁 data/                # Raw and cleaned datasets
+├── 📁 notebooks/           # Jupyter notebooks with analysis
+├── 📁 visuals/             # Charts exported from Power BI
+├── 📄 requirements.txt     # Python libraries
+└── 📄 README.md            # Project documentation
+---
+
+## 🚀 Outcomes
+
+- Identified best and worst-performing item categories
+- Analyzed customer preferences based on fat content
+- Visualized regional and outlet-based performance
+- Delivered insights to support operational decisions
+
+---
+
+## 📬 Contact
+
+For queries or collaborations, feel free to reach out via [LinkedIn](https://www.linkedin.com/) or open an issue in this repository.
