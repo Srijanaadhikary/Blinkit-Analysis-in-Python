@@ -84,7 +84,3 @@ To conduct a detailed analysis of Blinkit's operations to:
 - Delivered insights to support operational decisions
 
 ---
-
-## 📬 Contact
-
-For queries or collaborations, feel free to reach out via [LinkedIn](https://www.linkedin.com/) or open an issue in this repository.
