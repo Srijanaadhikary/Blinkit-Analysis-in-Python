@@ -15,6 +15,8 @@ To conduct a detailed analysis of Blinkit's operations to:
 - Support business decisions using data-driven insights
 
 ---
+## Dasboard
+
 
 ## 📊 KPI Requirements
 
