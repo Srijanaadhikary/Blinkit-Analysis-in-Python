@@ -16,7 +16,7 @@ To conduct a detailed analysis of Blinkit's operations to:
 
 ---
 ## Dasboard
-
+![image alt](https://github.com/Srijanaadhikary/Blinkit-Analysis-in-Python-Excel/blob/530325d2dd862fdbde4b52b7505ce15d646a67d2/Blinkit%20Excel%20Dasboard.jpeg)
 
 ## 📊 KPI Requirements
 
